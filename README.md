@@ -3,4 +3,4 @@
 
 💰🎮 Earn crypto by playing games on Steam.
 
-📖 Learn more @ www.passivebot.com.
+📖 Learn more: www.passivebot.com/gamermine-bot
