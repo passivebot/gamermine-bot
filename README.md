@@ -1,5 +1,5 @@
 # gamermine-bot
-🐍 Python code for gamermine-bot by Passivebot.
+🐍 Python bot for gamermine by Passivebot.
 
 💰🎮 Earn crypto by playing games on Steam.
 
