@@ -70,7 +70,7 @@ def displayCredentials():
 
 #define login function
 def login(browser: WebDriver, email: str, pwd: str):
-	   	browser.get('https://gamermine.com/r/freebitcoin')
+	   	browser.get('https://gamermine.com')
 	   	#wait for the page to complete loading
 	   	waitUntilVisible(browser, By.XPATH, '/html/body/div[1]/div/div[2]/div[1]/header/div/button', 10)
 	   	delay()
@@ -107,7 +107,7 @@ def login(browser: WebDriver, email: str, pwd: str):
 #def function to get account variables
 def checkGamermineLogin(browser: WebDriver):
     #access Gamermine
-    browser.get('https://gamermine.com/r/freebitcoin')
+    browser.get('https://gamermine.com')
     delay()
     #accept Cookies
     try:
