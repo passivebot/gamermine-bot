@@ -3,4 +3,4 @@
 
 💰🎮 Automate Earning Bitcoin or Ethereum with Steam
 
-📖 Learn more: www.passivebot.com/gamermine-bot
+📖 Learn more: https://passivebot.com/gamerminer-bot/
