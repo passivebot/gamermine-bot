@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Gamermine bot</string>
+   <string>GamerMine bot</string>
   </property>
   <widget class="QLabel" name="label">
    <property name="geometry">
