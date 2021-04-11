@@ -1,4 +1,4 @@
-#GamerMine Bot
+# GamerMine Bot
 
 🐍 GamerMine Bot by Passivebot
 
