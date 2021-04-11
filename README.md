@@ -4,4 +4,4 @@
 
 💸💰 Automatically earn crpyotcurrency with Steam on GamerMine
 
-📖 Learn more: www.passivebot.com/gamermine-bot
+📖 Learn more: www.passivebot.com/gamerminer-bot
