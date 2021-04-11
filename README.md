@@ -1,6 +1,6 @@
-# GamerMine-Bot
-🐍 Python script
+GamerMine-Bot
+🐍 GamerMine Bot by Passivebot
 
-💰🎮 Automate Earning Bitcoin or Ethereum with Steam
+💸💰 Automatically earn crpyotcurrency with Steam on GamerMine
 
-📖 Learn more: https://passivebot.com/gamerminer-bot/
+📖 Learn more: www.passivebot.com/gamermine-bot
