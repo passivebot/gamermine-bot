@@ -1,4 +1,5 @@
-GamerMine-Bot
+GamerMine Bot
+
 🐍 GamerMine Bot by Passivebot
 
 💸💰 Automatically earn crpyotcurrency with Steam on GamerMine
